@@ -10,7 +10,7 @@ TypeScript: Written in TypeScript with async/await functionality for a smooth us
 
 Node.js Integration: Uses Node.js for reading user input via the readline module.
 
-📦 Setup Instructions
+📦 Setup Instructions  
 Clone the Repository
 
 git clone https://github.com/your-username/camera-range-checker.git
