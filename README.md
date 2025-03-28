@@ -32,14 +32,14 @@ The number of cameras and their respective distance and light level ranges
 
 The program will output whether the cameras can cover the specified ranges.
 
-🌐 Example Execution:
-Enter the desired distance range (e.g., 1,10): 1,10
-Enter the desired light level range (e.g., 1,5): 1,5
-How many cameras do you want to input? 2
-Enter the distance range for camera 1 (e.g., 1,5): 1,5
-Enter the light level range for camera 1 (e.g., 1,3): 1,3
-Enter the distance range for camera 2 (e.g., 1,5): 6,10
-Enter the light level range for camera 2 (e.g., 1,3): 3,5
+🌐 Example Execution:  
+Enter the desired distance range (e.g., 1,10): 1,10  
+Enter the desired light level range (e.g., 1,5): 1,5  
+How many cameras do you want to input? 2  
+Enter the distance range for camera 1 (e.g., 1,5): 1,5  
+Enter the light level range for camera 1 (e.g., 1,3): 1,3  
+Enter the distance range for camera 2 (e.g., 1,5): 6,10  
+Enter the light level range for camera 2 (e.g., 1,3): 3,5  
 
 The cameras can cover the desired range.  
 ✅ Best Practices Followed
