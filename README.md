@@ -1,4 +1,4 @@
-📸 Camera Range Checker (TypeScript)
+📸 Camera Range Checker (TypeScript)  
 This project implements a camera range checker in TypeScript, allowing users to input camera specifications and check if a set of cameras can cover a desired range of distances and light levels.
 
 🚀 Features
