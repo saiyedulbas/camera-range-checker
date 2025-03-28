@@ -42,7 +42,7 @@ Enter the distance range for camera 2 (e.g., 1,5): 6,10
 Enter the light level range for camera 2 (e.g., 1,3): 3,5  
 
 The cameras can cover the desired range.  
-✅ Best Practices Followed
+✅ Best Practices Followed  
 TypeScript: Strongly typed code with explicit types for better maintainability.
 
 Async/Await: Proper handling of asynchronous operations using async/await.
