@@ -11,20 +11,19 @@ TypeScript: Written in TypeScript with async/await functionality for a smooth us
 Node.js Integration: Uses Node.js for reading user input via the readline module.
 
 📦 Setup Instructions  
-Clone the Repository
-
-git clone https://github.com/your-username/camera-range-checker.git
-cd camera-range-checker
+Clone the Repository  
+git clone https://github.com/your-username/camera-range-checker.git  
+cd camera-range-checker  
 Install Dependencies Install the necessary Node.js type definitions and other dependencies:
 
-npm install
-npm install --save-dev @types/node
+npm install  
+npm install --save-dev @types/node  
 Compile TypeScript Compile the TypeScript code to JavaScript:
 
-tsc camera.ts
+tsc camera.ts  
 Run the Application Run the compiled JavaScript using Node.js:
 
-node camera.js
+node camera.js  
 Interact with the Application Follow the prompts in the terminal to enter:
 
 Desired range of distances and light levels
